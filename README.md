@@ -1,3 +1,4 @@
 # anpacollege-demo
+this is my frist repository.
 <br>
-this is my frist repository.Author-Mohd Anas
+Author-Mohd Anas
